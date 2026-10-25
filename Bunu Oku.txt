@@ -1,0 +1,23 @@
+Doğancan Özgökçeler
+
+Bu kod temelde kullanıcıdan alınan girdiilerler ona farklı içiçekler hazırlamayı konu alan bir uygulamadır. Projenin önce Pyhton konu içinde debug edilmesi ve masaüstüne kle komutuna bir kere çalıştırıldıktan sonra tıklanması önerilir.
+
+Bu kodun geliştirilmesinde faydalı olan  Bilim Hücresi Sanal Okul projesine ulaşmak isterseniz : https://discord.gg/YKXkER6CHf
+
+Twitter : https://twitter.com/DOzgokceler
+
+Discord : https://discord.gg/YKXkER6CHf (Bilim Hücresi Sanal Okul)
+
+Sketchfab: https://sketchfab.com/Donjuan301/models
+
+Academia: https://khas.academia.edu/DoğancanÖzgökçeler
+
+Replit: https://replit.com/@Doancanzgkeler
+
+Evrimağacı: https://evrimagaci.org/columba14819
+
+Reddit: https://www.reddit.com/user/DogancanOzgokceler
+
+Patreon: https://www.patreon.com/DogancanOzgokceler
+
+25.10.2026 05:39
